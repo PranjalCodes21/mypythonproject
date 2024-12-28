@@ -1,0 +1,2 @@
+# mypythonproject
+crash course work
